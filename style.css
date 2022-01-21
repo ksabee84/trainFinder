@@ -1,0 +1,42 @@
+body {
+    box-sizing: border-box;
+}
+
+#trainIdSuggestionBox {
+    position: absolute;
+    max-height: 50vh;
+    overflow: auto;
+}
+
+#trainNoSuggestionBox {
+    position: absolute;
+    max-height: 33vh;
+    overflow: auto;
+}
+
+#trainIdSuggestionBox p, #trainNoSuggestionBox p {
+    cursor: pointer;
+}
+
+#trainIdSuggestionBox p:hover, #trainNoSuggestionBox p:hover {
+    background-color: #eee;
+}
+
+#resultTbody {
+    max-height: 50vh;
+    overflow: scroll;
+}
+
+@media(max-width: 760px) {
+    h1 {
+        font-size: 30px;
+    }
+
+    .inputField, button {
+        font-size: 10px;
+    }
+
+    thead, #resultTbody {
+      font-size: 10px;
+  }
+}

@@ -1,0 +1,6490 @@
+[
+    {
+        "date": "2021-12-01",
+        "locID": "117 190",
+        "trainNo": "5037",
+        "comment": ""
+    },
+    {
+        "date": "2021-12-01",
+        "locID": "117 194",
+        "trainNo": "5427",
+        "comment": ""
+    },
+    {
+        "date": "2021-12-01",
+        "locID": "127 410",
+        "trainNo": "36012",
+        "comment": ""
+    },
+    {
+        "date": "2021-12-01",
+        "locID": "127 418",
+        "trainNo": "36117",
+        "comment": "Nyírbátorig (járványügyi menetrend)"
+    },
+    {
+        "date": "2021-12-01",
+        "locID": "414 001",
+        "trainNo": "5140",
+        "comment": ""
+    },
+    {
+        "date": "2021-12-01",
+        "locID": "414 002",
+        "trainNo": "5222",
+        "comment": ""
+    },
+    {
+        "date": "2021-12-01",
+        "locID": "414 003",
+        "trainNo": "5067",
+        "comment": ""
+    },
+    {
+        "date": "2021-12-01",
+        "locID": "414 004",
+        "trainNo": "5169",
+        "comment": ""
+    },
+    {
+        "date": "2021-12-01",
+        "locID": "414 010",
+        "trainNo": "5132",
+        "comment": ""
+    },
+    {
+        "date": "2021-12-01",
+        "locID": "414 012",
+        "trainNo": "5120",
+        "comment": ""
+    },
+    {
+        "date": "2021-12-01",
+        "locID": "136 001",
+        "trainNo": "36617",
+        "comment": ""
+    },
+    {
+        "date": "2021-12-01",
+        "locID": "418 140",
+        "trainNo": "6312",
+        "comment": ""
+    },
+    {
+        "date": "2021-12-30",
+        "locID": "117 190",
+        "trainNo": "35217",
+        "comment": "vége"
+    },
+    {
+        "date": "2021-12-30",
+        "locID": "117 190",
+        "trainNo": "35222",
+        "comment": "eleje"
+    },
+    {
+        "date": "2021-12-30",
+        "locID": "117 240",
+        "trainNo": "36532",
+        "comment": "eleje"
+    },
+    {
+        "date": "2021-12-30",
+        "locID": "117 290",
+        "trainNo": "36532",
+        "comment": "vége"
+    },
+    {
+        "date": "2021-12-30",
+        "locID": "117 352",
+        "trainNo": "35217",
+        "comment": "eleje"
+    },
+    {
+        "date": "2021-12-30",
+        "locID": "117 352",
+        "trainNo": "35222",
+        "comment": "vége"
+    },
+    {
+        "date": "2021-12-30",
+        "locID": "117 369",
+        "trainNo": "5422",
+        "comment": ""
+    },
+    {
+        "date": "2021-12-30",
+        "locID": "414 001",
+        "trainNo": "5112",
+        "comment": ""
+    },
+    {
+        "date": "2021-12-30",
+        "locID": "414 002",
+        "trainNo": "5140",
+        "comment": ""
+    },
+    {
+        "date": "2021-12-30",
+        "locID": "414 003",
+        "trainNo": "5047",
+        "comment": ""
+    },
+    {
+        "date": "2021-12-30",
+        "locID": "414 020",
+        "trainNo": "5169",
+        "comment": ""
+    },
+    {
+        "date": "2021-12-30",
+        "locID": "415 076",
+        "trainNo": "IR5500 Agria",
+        "comment": ""
+    },
+    {
+        "date": "2021-12-30",
+        "locID": "415 100",
+        "trainNo": "IR5500 Agria",
+        "comment": ""
+    },
+    {
+        "date": "2021-12-30",
+        "locID": "431 011",
+        "trainNo": "5327",
+        "comment": ""
+    },
+    {
+        "date": "2021-12-30",
+        "locID": "431 100",
+        "trainNo": "5267",
+        "comment": "414 helyett"
+    },
+    {
+        "date": "2021-12-30",
+        "locID": "432 244",
+        "trainNo": "5087",
+        "comment": ""
+    },
+    {
+        "date": "2021-12-30",
+        "locID": "432 358",
+        "trainNo": "5522",
+        "comment": ""
+    },
+    {
+        "date": "2021-12-30",
+        "locID": "470 010",
+        "trainNo": "IC182 Hernád-Zemplén",
+        "comment": "Hidasnémetiig"
+    },
+    {
+        "date": "2021-12-31",
+        "locID": "480 008",
+        "trainNo": "IC747 Békés",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-02",
+        "locID": "117 202",
+        "trainNo": "35211",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-02",
+        "locID": "117 202",
+        "trainNo": "35228",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-02",
+        "locID": "117 216",
+        "trainNo": "35713",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-02",
+        "locID": "117 244",
+        "trainNo": "35211",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-02",
+        "locID": "117 244",
+        "trainNo": "35228",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-02",
+        "locID": "414 002",
+        "trainNo": "5146",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-02",
+        "locID": "414 013",
+        "trainNo": "5133",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-02",
+        "locID": "415 073",
+        "trainNo": "IR5513 Agria",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-02",
+        "locID": "415 079",
+        "trainNo": "IR5513 Agria",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-02",
+        "locID": "415 085",
+        "trainNo": "IR5506 Agria",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-02",
+        "locID": "415 086",
+        "trainNo": "IR5506 Agria",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-02",
+        "locID": "415 089",
+        "trainNo": "IR546 Agria",
+        "comment": "vége, Füzesabonyig (késés)"
+    },
+    {
+        "date": "2022-01-02",
+        "locID": "415 111",
+        "trainNo": "IR546 Agria",
+        "comment": "eleje, Füzesabonyig (késés)"
+    },
+    {
+        "date": "2022-01-02",
+        "locID": "431 013",
+        "trainNo": "IC568 Tulipán",
+        "comment": "Vámosgyörkig (gázolt)"
+    },
+    {
+        "date": "2022-01-02",
+        "locID": "431 013",
+        "trainNo": "1568",
+        "comment": "Vámosgyörktől Nyíregyházáig (gázolt)"
+    },
+    {
+        "date": "2022-01-02",
+        "locID": "431 100",
+        "trainNo": "IC526 Zemplén",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-02",
+        "locID": "432 236",
+        "trainNo": "35636",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-02",
+        "locID": "432 236",
+        "trainNo": "35633",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "117 169",
+        "trainNo": "6622",
+        "comment": "Balmazújvárostól (vágányzár)"
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "117 179",
+        "trainNo": "36517",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "117 190",
+        "trainNo": "5427",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "117 194",
+        "trainNo": "5437",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "117 202",
+        "trainNo": "35222",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "117 223",
+        "trainNo": "36827",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "117 234",
+        "trainNo": "36517",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "117 236",
+        "trainNo": "35417",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "117 244",
+        "trainNo": "35222",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "117 252",
+        "trainNo": "6617",
+        "comment": "Balmazújvárosig (vágányzár)"
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "117 269",
+        "trainNo": "6627",
+        "comment": "Balmazújvárosig (vágányzár)"
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "117 275",
+        "trainNo": "36612",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "117 286",
+        "trainNo": "36827",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "117 300",
+        "trainNo": "36422",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "117 346",
+        "trainNo": "36312",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "117 351",
+        "trainNo": "6347",
+        "comment": "418 3xx helyett"
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "117 352",
+        "trainNo": "5427",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "117 369",
+        "trainNo": "35412",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "117 377",
+        "trainNo": "36812",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "117 386",
+        "trainNo": "36917",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "117 388",
+        "trainNo": "6847",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "117 395",
+        "trainNo": "6857",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "117 396",
+        "trainNo": "36617",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "127 408",
+        "trainNo": "36322",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "127 409",
+        "trainNo": "36012",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "127 410",
+        "trainNo": "36012",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "127 417",
+        "trainNo": "36017",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "127 418",
+        "trainNo": "36437",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "127 418",
+        "trainNo": "36432",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "414 003",
+        "trainNo": "5120",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "414 003",
+        "trainNo": "5038",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "414 009",
+        "trainNo": "5112",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "414 011",
+        "trainNo": "5132",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "414 012",
+        "trainNo": "5128",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "414 013",
+        "trainNo": "5047",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "414 013",
+        "trainNo": "5111",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "414 020",
+        "trainNo": "5140",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "414 020",
+        "trainNo": "5117",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "414 020",
+        "trainNo": "5138",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "415 062",
+        "trainNo": "IR547 Agria",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "415 085",
+        "trainNo": "IR542 Agria",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "415 086",
+        "trainNo": "IR542 Agria",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "415 106",
+        "trainNo": "IR547 Agria",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "416 022",
+        "trainNo": "36712",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "416 031",
+        "trainNo": "6312",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "418 130",
+        "trainNo": "6427",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "418 174",
+        "trainNo": "32512",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "418 177",
+        "trainNo": "6412",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "418 334",
+        "trainNo": "6337",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "431 006",
+        "trainNo": "IC650/650-1 Holló",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "431 007",
+        "trainNo": "IC658/658-1 Vércse",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "431 011",
+        "trainNo": "5327",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "431 011",
+        "trainNo": "IC503 Zemplén",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "431 013",
+        "trainNo": "5169",
+        "comment": "414 helyett"
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "431 077",
+        "trainNo": "IC182 Hernád-Zemplén",
+        "comment": "Hidasnémetiig, 470/480 helyett"
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "431 079",
+        "trainNo": "6240",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "431 094",
+        "trainNo": "6160",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "431 100",
+        "trainNo": "5232",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "431 109",
+        "trainNo": "IC682/682-1 Tokaj",
+        "comment": "630 helyett"
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "431 132",
+        "trainNo": "IC527 Zemplén",
+        "comment": "630 helyett"
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "431 135",
+        "trainNo": "5067",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "431 140",
+        "trainNo": "IC617 Hajdú",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "431 219",
+        "trainNo": "IC560/560-1 Dália",
+        "comment": "630 helyett"
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "431 332",
+        "trainNo": "IC568/568-1 Tulipán",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "431 361",
+        "trainNo": "5267",
+        "comment": "414 helyett"
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "432 160",
+        "trainNo": "6217",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "432 171",
+        "trainNo": "6150",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "432 171",
+        "trainNo": "6231",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "432 281",
+        "trainNo": "5092",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "432 291",
+        "trainNo": "5537",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "432 304",
+        "trainNo": "6117",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "432 355",
+        "trainNo": "6149",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "432 378",
+        "trainNo": "6207",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "480 020",
+        "trainNo": "IC654/654-1 Rigó",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "480 021",
+        "trainNo": "IC580/580-1 Takta",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "480 022",
+        "trainNo": "IC189 Hernád-Zemplén",
+        "comment": "Miskolctól"
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "630 019",
+        "trainNo": "IC582/582-1 Délibáb",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "630 023",
+        "trainNo": "IC186 Hernád-Zemplén",
+        "comment": "Hidasnémetiig"
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "630 033",
+        "trainNo": "S6199",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "630 047",
+        "trainNo": "IC600 Sóstó",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "815 001",
+        "trainNo": "2742",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "815 004",
+        "trainNo": "2467",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "815 007",
+        "trainNo": "2832",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "815 010",
+        "trainNo": "3322",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "815 011",
+        "trainNo": "2342",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "815 013",
+        "trainNo": "2347",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "815 017",
+        "trainNo": "2337",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "815 022",
+        "trainNo": "2357",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "815 024",
+        "trainNo": "2452",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "815 025",
+        "trainNo": "3332",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "815 026",
+        "trainNo": "2627",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "815 027",
+        "trainNo": "2457",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-03",
+        "locID": "815 028",
+        "trainNo": "2817",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "117 169",
+        "trainNo": "6643",
+        "comment": "Balmazújvárosig (vágányzár)"
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "117 184",
+        "trainNo": "6617",
+        "comment": "Balmazújvárosig (vágányzár)"
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "117 190",
+        "trainNo": "5412",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "117 190",
+        "trainNo": "5437",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "117 193",
+        "trainNo": "36517",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "117 202",
+        "trainNo": "35222",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "117 218",
+        "trainNo": "35717",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "117 223",
+        "trainNo": "36827",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "117 234",
+        "trainNo": "36522",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "117 235",
+        "trainNo": "36812",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "117 236",
+        "trainNo": "35417",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "117 240",
+        "trainNo": "36517",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "117 244",
+        "trainNo": "35222",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "117 269",
+        "trainNo": "6627",
+        "comment": "Balmazújvárosig (vágányzár)"
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "117 286",
+        "trainNo": "36827",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "117 347",
+        "trainNo": "36612",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "117 348",
+        "trainNo": "5427",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "117 352",
+        "trainNo": "5412",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "117 352",
+        "trainNo": "5437",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "117 355",
+        "trainNo": "6622",
+        "comment": "Balmazújvárostól (vágányzár)"
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "117 369",
+        "trainNo": "35412",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "117 377",
+        "trainNo": "36829",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "117 377",
+        "trainNo": "36312",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "117 384",
+        "trainNo": "6847",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "117 388",
+        "trainNo": "6857",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "117 395",
+        "trainNo": "36617",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "127 401",
+        "trainNo": "36012",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "127 407",
+        "trainNo": "36117",
+        "comment": "Nyírbátorig (járványügyi menetrend)"
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "127 417",
+        "trainNo": "36017",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "127 418",
+        "trainNo": "36422",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "127 419",
+        "trainNo": "36437",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "127 421",
+        "trainNo": "36229",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "127 422",
+        "trainNo": "36229",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "414 001",
+        "trainNo": "5112",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "414 003",
+        "trainNo": "5047",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "414 009",
+        "trainNo": "5120",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "414 011",
+        "trainNo": "5222",
+        "comment": "Sárospatakig (üzemképtelenség)"
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "414 012",
+        "trainNo": "5140",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "414 012",
+        "trainNo": "5113",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "414 013",
+        "trainNo": "5125",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "414 018",
+        "trainNo": "5124",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "414 020",
+        "trainNo": "5169",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "414 020",
+        "trainNo": "5116",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "415 061",
+        "trainNo": "IR547 Agria",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "415 075",
+        "trainNo": "IR549 Agria",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "415 081",
+        "trainNo": "IR542 Agria",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "415 096",
+        "trainNo": "IR547 Agria",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "415 114",
+        "trainNo": "IR542 Agria",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "416 028",
+        "trainNo": "6312",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "416 031",
+        "trainNo": "36712",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "418 108",
+        "trainNo": "6412",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "418 130",
+        "trainNo": "6427",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "418 187",
+        "trainNo": "32512",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "418 321",
+        "trainNo": "6337",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "418 325",
+        "trainNo": "6347",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "418 332",
+        "trainNo": "6812",
+        "comment": "Valea Lui Mihai-ig"
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "431 008",
+        "trainNo": "5067",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "431 008",
+        "trainNo": "5136",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "431 011",
+        "trainNo": "5312",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "431 011",
+        "trainNo": "IC521 Zemplén",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "431 015",
+        "trainNo": "IC568/568-1 Tulipán",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "431 079",
+        "trainNo": "6230",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "431 095",
+        "trainNo": "6240",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "431 100",
+        "trainNo": "5232",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "431 102",
+        "trainNo": "S6102",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "431 102",
+        "trainNo": "5115",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "431 132",
+        "trainNo": "IC506 Zemplén",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "431 135",
+        "trainNo": "6160",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "431 156",
+        "trainNo": "IC582/582-1 Délibáb",
+        "comment": "630 helyett"
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "431 156",
+        "trainNo": "IC614 Ung",
+        "comment": "630 helyett"
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "431 195",
+        "trainNo": "IC527 Zemplén",
+        "comment": "630 helyett"
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "431 203",
+        "trainNo": "IC682/682-1 Tokaj",
+        "comment": "630 helyett"
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "431 219",
+        "trainNo": "IC617 Hajdú",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "431 306",
+        "trainNo": "6226",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "431 332",
+        "trainNo": "IC650/650-1 Holló",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "431 332",
+        "trainNo": "IC194 Hernád-Zemplén",
+        "comment": "Hidasnémetiig"
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "431 342",
+        "trainNo": "6149",
+        "comment": "432 helyett"
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "431 344",
+        "trainNo": "5327",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "431 368",
+        "trainNo": "5132",
+        "comment": "414 helyett"
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "431 368",
+        "trainNo": "5145",
+        "comment": "414 helyett"
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "432 171",
+        "trainNo": "6217",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "432 184",
+        "trainNo": "6207",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "432 213",
+        "trainNo": "6293",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "432 236",
+        "trainNo": "5537",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "432 236",
+        "trainNo": "5526",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "432 238",
+        "trainNo": "6150",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "432 241",
+        "trainNo": "6140",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "432 241",
+        "trainNo": "6117",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "432 256",
+        "trainNo": "5732",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "432 281",
+        "trainNo": "35646",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "432 291",
+        "trainNo": "5092",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "432 291",
+        "trainNo": "5083",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "480 006",
+        "trainNo": "IC189 Hernád-Zemplén",
+        "comment": "Miskolctól"
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "480 011",
+        "trainNo": "IC182 Hernád-Zemplén",
+        "comment": "Hidasnémetiig"
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "480 021",
+        "trainNo": "IC580/580-1 Takta",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "480 021",
+        "trainNo": "IC656/656-1 Kócsag",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "630 019",
+        "trainNo": "IC600 Sóstó",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "630 023",
+        "trainNo": "5217",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "630 024",
+        "trainNo": "S6199",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "630 027",
+        "trainNo": "IC560/560-1 Dália",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "630 028",
+        "trainNo": "IC619 Bereg-Kraszna",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "815 001",
+        "trainNo": "2717",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "815 002",
+        "trainNo": "2342",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "815 006",
+        "trainNo": "2457",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "815 007",
+        "trainNo": "2452",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "815 009",
+        "trainNo": "2627",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "815 011",
+        "trainNo": "2442",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "815 015",
+        "trainNo": "2347",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "815 017",
+        "trainNo": "3332",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "815 018",
+        "trainNo": "2832",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "815 019",
+        "trainNo": "2337",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "815 022",
+        "trainNo": "2447",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "815 023",
+        "trainNo": "2737",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "815 025",
+        "trainNo": "3322",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-04",
+        "locID": "815 026",
+        "trainNo": "2817",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "117 179",
+        "trainNo": "36517",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "117 184",
+        "trainNo": "35412",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "117 194",
+        "trainNo": "5427",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "117 198",
+        "trainNo": "5437",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "117 202",
+        "trainNo": "35222",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "117 223",
+        "trainNo": "36827",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "117 240",
+        "trainNo": "36517",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "117 244",
+        "trainNo": "35222",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "117 269",
+        "trainNo": "36917",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "117 286",
+        "trainNo": "36827",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "117 290",
+        "trainNo": "6622",
+        "comment": "Balmazújvárostól (vágányzár)"
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "117 316",
+        "trainNo": "5832",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "117 321",
+        "trainNo": "35417",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "117 344",
+        "trainNo": "5837",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "117 346",
+        "trainNo": "36812",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "117 347",
+        "trainNo": "36617",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "117 351",
+        "trainNo": "6857",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "117 352",
+        "trainNo": "5437",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "117 355",
+        "trainNo": "6617",
+        "comment": "Balmazújvárosig (vágányzár)"
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "117 377",
+        "trainNo": "36312",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "117 384",
+        "trainNo": "36612",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "117 386",
+        "trainNo": "6847",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "117 396",
+        "trainNo": "6627",
+        "comment": "Balmazújvárosig (vágányzár)"
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "127 401",
+        "trainNo": "36012",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "127 409",
+        "trainNo": "36012",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "127 417",
+        "trainNo": "36437",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "127 418",
+        "trainNo": "36017",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "127 419",
+        "trainNo": "36422",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "383 109 (ZSSK)",
+        "trainNo": "EC287 Hungária",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "414 001",
+        "trainNo": "5132",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "414 002",
+        "trainNo": "5112",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "414 009",
+        "trainNo": "5047",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "414 012",
+        "trainNo": "5140",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "415 073",
+        "trainNo": "IR542 Agria",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "415 085",
+        "trainNo": "IR547 Agria",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "415 114",
+        "trainNo": "IR547 Agria",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "415 117",
+        "trainNo": "IR542 Agria",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "416 028",
+        "trainNo": "6312",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "416 031",
+        "trainNo": "36712",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "418 108",
+        "trainNo": "6427",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "418 130",
+        "trainNo": "6412",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "418 145",
+        "trainNo": "6347",
+        "comment": "418 3xx helyett"
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "418 325",
+        "trainNo": "6337",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "418 332",
+        "trainNo": "6812",
+        "comment": "Valea Lui Mihai-ig"
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "431 008",
+        "trainNo": "6160",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "431 011",
+        "trainNo": "5345",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "431 015",
+        "trainNo": "IC650/650-1 Holló",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "431 094",
+        "trainNo": "5149",
+        "comment": "630 helyett"
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "431 094",
+        "trainNo": "IC582/582-1 Délibáb",
+        "comment": "630 helyett"
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "431 099",
+        "trainNo": "6240",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "431 102",
+        "trainNo": "5067",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "431 108",
+        "trainNo": "S6199",
+        "comment": "630 helyett"
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "431 156",
+        "trainNo": "IC600 Sóstó",
+        "comment": "630 helyett"
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "431 195",
+        "trainNo": "IC682/682-1 Tokaj",
+        "comment": "630 helyett"
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "431 219",
+        "trainNo": "IC560/560-1 Dália",
+        "comment": "630 helyett"
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "431 229",
+        "trainNo": "IC406-1 Corona",
+        "comment": "Püspökladánytól"
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "431 287",
+        "trainNo": "5169",
+        "comment": "414 helyett"
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "431 332",
+        "trainNo": "5327",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "431 337",
+        "trainNo": "5232",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "431 368",
+        "trainNo": "5120",
+        "comment": "414 helyett"
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "432 184",
+        "trainNo": "6150",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "432 213",
+        "trainNo": "6149",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "432 236",
+        "trainNo": "5092",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "432 238",
+        "trainNo": "6217",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "432 252",
+        "trainNo": "5537",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "432 293",
+        "trainNo": "5732",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "432 304",
+        "trainNo": "6207",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "480 011",
+        "trainNo": "IC182 Hernád-Zemplén",
+        "comment": "Hidasnémetiig"
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "480 016",
+        "trainNo": "IC580/580-1 Takta",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "480 025",
+        "trainNo": "IC189 Hernád-Zemplén",
+        "comment": "Miskolctól"
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "630 021",
+        "trainNo": "IC527 Zemplén",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "815 002",
+        "trainNo": "2442",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "815 003",
+        "trainNo": "2727",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "815 005",
+        "trainNo": "2337",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "815 006",
+        "trainNo": "2357",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "815 008",
+        "trainNo": "3332",
+        "comment": "vége (???)"
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "815 009",
+        "trainNo": "2817",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "815 013",
+        "trainNo": "2342",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "815 014",
+        "trainNo": "2452",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "815 016",
+        "trainNo": "2627",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "815 017",
+        "trainNo": "3322",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "815 018",
+        "trainNo": "2832",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "815 019",
+        "trainNo": "2462",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "815 022",
+        "trainNo": "2467",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "815 024",
+        "trainNo": "2457",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "815 027",
+        "trainNo": "3332",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-05",
+        "locID": "815 028",
+        "trainNo": "2347",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "117 169",
+        "trainNo": "6617",
+        "comment": "Balmazújvárosig (vágányzár)"
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "117 179",
+        "trainNo": "36522",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "117 184",
+        "trainNo": "35412",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "117 194",
+        "trainNo": "35222",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "117 202",
+        "trainNo": "5412",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "117 202",
+        "trainNo": "5437",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "117 203",
+        "trainNo": "5832",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "117 223",
+        "trainNo": "36827",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "117 234",
+        "trainNo": "36517",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "117 235",
+        "trainNo": "36017",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "117 244",
+        "trainNo": "5412",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "117 244",
+        "trainNo": "5437",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "117 252",
+        "trainNo": "5427",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "117 269",
+        "trainNo": "6627",
+        "comment": "Balmazújvárosig (vágányzár)"
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "117 286",
+        "trainNo": "36827",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "117 300",
+        "trainNo": "36812",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "117 321",
+        "trainNo": "5427",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "117 327",
+        "trainNo": "6622",
+        "comment": "Balmazújvárostól (vágányzár)"
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "117 346",
+        "trainNo": "36312",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "117 352",
+        "trainNo": "35417",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "117 369",
+        "trainNo": "35222",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "117 384",
+        "trainNo": "36617",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "117 386",
+        "trainNo": "36612",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "117 388",
+        "trainNo": "6857",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "117 394",
+        "trainNo": "36517",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "117 395",
+        "trainNo": "6847",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "117 396",
+        "trainNo": "36917",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "127 401",
+        "trainNo": "36012",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "127 409",
+        "trainNo": "36012",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "127 413",
+        "trainNo": "36229",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "127 414",
+        "trainNo": "36229",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "127 417",
+        "trainNo": "36422",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "127 418",
+        "trainNo": "36437",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "383 109 (ZSSK)",
+        "trainNo": "EC286 Hungária",
+        "comment": "hidegen (üzemképtelenség)"
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "414 003",
+        "trainNo": "5132",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "414 012",
+        "trainNo": "5140",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "414 018",
+        "trainNo": "5169",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "414 020",
+        "trainNo": "5112",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "415 064",
+        "trainNo": "IR542 Agria",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "415 069",
+        "trainNo": "IR547 Agria",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "415 080",
+        "trainNo": "IR542 Agria",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "415 083",
+        "trainNo": "IR5500 Agria",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "415 100",
+        "trainNo": "IR549 Agria",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "415 111",
+        "trainNo": "5537",
+        "comment": "432-es inga helyett"
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "415 115",
+        "trainNo": "IR547 Agria",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "415 118",
+        "trainNo": "IR5500 Agria",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "416 027",
+        "trainNo": "36712",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "416 028",
+        "trainNo": "6312",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "416 031",
+        "trainNo": "36727",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "418 108",
+        "trainNo": "6412",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "418 130",
+        "trainNo": "6427",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "418 174",
+        "trainNo": "32512",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "418 321",
+        "trainNo": "6347",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "418 325",
+        "trainNo": "6812",
+        "comment": "Valea Lui Mihai-ig"
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "418 334",
+        "trainNo": "6337",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "431 013",
+        "trainNo": "EC286 Hungária",
+        "comment": "előfogat Stúrovóig (üzemképtelenség)"
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "431 013",
+        "trainNo": "EC273 Metropolitan",
+        "comment": "előfogat Stúrovótól (gépmenetspórolás)"
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "431 095",
+        "trainNo": "6240",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "431 100",
+        "trainNo": "IC529 Füzér",
+        "comment": "630 helyett"
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "431 102",
+        "trainNo": "6160",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "431 108",
+        "trainNo": "6207",
+        "comment": "432 helyett"
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "431 132",
+        "trainNo": "5232",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "431 140 ",
+        "trainNo": "5067",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "431 156",
+        "trainNo": "5327",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "431 203",
+        "trainNo": "S6199",
+        "comment": "630 helyett"
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "431 287",
+        "trainNo": "5120",
+        "comment": "414 helyett"
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "431 332",
+        "trainNo": "5312",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "431 337",
+        "trainNo": "IC650/650-1 Holló",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "431 348",
+        "trainNo": "IC189 Hernád-Zemplén",
+        "comment": "Miskolctól, 630 helyett"
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "432 184",
+        "trainNo": "6217",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "432 252",
+        "trainNo": "5092",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "432 256",
+        "trainNo": "5732",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "432 303",
+        "trainNo": "6150",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "432 304",
+        "trainNo": "6149",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "480 011",
+        "trainNo": "IC182 Hernád-Zemplén",
+        "comment": "Hidasnémetiig"
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "480 016",
+        "trainNo": "IC580/580-1 Takta",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "630 019",
+        "trainNo": "IC582/582-1 Délibáb",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "630 021",
+        "trainNo": "IC682/682-1 Tokaj",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "630 029",
+        "trainNo": "IC527 Zemplén",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "630 030",
+        "trainNo": "IC560/560-1 Dália",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "630 035",
+        "trainNo": "IC600 Sóstó",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "815 001",
+        "trainNo": "2727",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "815 004",
+        "trainNo": "2337",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "815 005",
+        "trainNo": "2447",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "815 007",
+        "trainNo": "2457",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "815 008",
+        "trainNo": "2627",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "815 009",
+        "trainNo": "2742",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "815 013",
+        "trainNo": "2442",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "815 015",
+        "trainNo": "2342",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "815 016",
+        "trainNo": "2817",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "815 018",
+        "trainNo": "2832",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "815 019",
+        "trainNo": "2467",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "815 022",
+        "trainNo": "2452",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "815 023",
+        "trainNo": "2347",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "815 024",
+        "trainNo": "2357",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-06",
+        "locID": "815 027",
+        "trainNo": "3322",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "117 169",
+        "trainNo": "35412",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "117 175",
+        "trainNo": "5832",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "117 193",
+        "trainNo": "36517",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "117 194",
+        "trainNo": "35217",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "117 194",
+        "trainNo": "35222",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "117 194",
+        "trainNo": "35226",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "117 198",
+        "trainNo": "36517",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "117 202",
+        "trainNo": "5412",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "117 202",
+        "trainNo": "5437",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "117 215",
+        "trainNo": "35722",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "117 223",
+        "trainNo": "36827",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "117 236",
+        "trainNo": "35417",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "117 244",
+        "trainNo": "5412",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "117 244",
+        "trainNo": "5437",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "117 252",
+        "trainNo": "5427",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "117 269",
+        "trainNo": "36917",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "117 275",
+        "trainNo": "6812",
+        "comment": "Nyírábrányig"
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "117 275",
+        "trainNo": "6857",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "117 286",
+        "trainNo": "36827",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "117 290",
+        "trainNo": "6622",
+        "comment": "Balmazújvárostól (vágányzár)"
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "117 300",
+        "trainNo": "36829",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "117 300",
+        "trainNo": "36312",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "117 327",
+        "trainNo": "6617 ",
+        "comment": "Balmazújvárosig (vágányzár)"
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "117 332",
+        "trainNo": "35717",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "117 346",
+        "trainNo": "36812",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "117 347",
+        "trainNo": "36617",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "117 351",
+        "trainNo": "6837",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "117 369",
+        "trainNo": "35217",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "117 369",
+        "trainNo": "35222",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "117 369",
+        "trainNo": "35226",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "117 386",
+        "trainNo": "36612",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "117 394",
+        "trainNo": "36522",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "117 395",
+        "trainNo": "6847",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "117 396",
+        "trainNo": "6627",
+        "comment": "Balmazújvárosig (vágányzár)"
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "127 401",
+        "trainNo": "36012",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "127 408",
+        "trainNo": "36322",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "127 410 ",
+        "trainNo": "36017",
+        "comment": "Nyírmadától (műszaki hiba)"
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "127 414",
+        "trainNo": "36117",
+        "comment": "Nyírbátorig (járványügyi menetrend)"
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "127 417",
+        "trainNo": "36437",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "127 418",
+        "trainNo": "36422",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "127 422",
+        "trainNo": "36229",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "414 001",
+        "trainNo": "5124",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "414 003",
+        "trainNo": "5222",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "414 003",
+        "trainNo": "5236",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "414 004",
+        "trainNo": "5140",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "414 011",
+        "trainNo": "5037",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "414 012",
+        "trainNo": "5132",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "414 013",
+        "trainNo": "5116",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "414 018",
+        "trainNo": "5139",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "415 069",
+        "trainNo": "IR547 Agria",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "415 071",
+        "trainNo": "IR542 Agria",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "415 075",
+        "trainNo": "IR542 Agria",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "415 079",
+        "trainNo": "IR549 Agria",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "415 083",
+        "trainNo": "IR5506 Agria",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "415 100",
+        "trainNo": "IR550 Agria",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "415 100",
+        "trainNo": "IR547 Agria",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "415 111",
+        "trainNo": "5092",
+        "comment": "432-es inga helyett"
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "415 111",
+        "trainNo": "5083",
+        "comment": "432-es inga helyett"
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "415 118",
+        "trainNo": "IR5506 Agria",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "416 022",
+        "trainNo": "36712",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "416 028",
+        "trainNo": "6312",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "416 031",
+        "trainNo": "36727",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "418 108",
+        "trainNo": "6427",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "418 130",
+        "trainNo": "6412",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "418 174",
+        "trainNo": "32529",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "418 321",
+        "trainNo": "6812",
+        "comment": "Valea Lui Mihai-ig"
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "418 325",
+        "trainNo": "6337",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "418 332",
+        "trainNo": "6347",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "431 011",
+        "trainNo": "5232",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "431 095",
+        "trainNo": "6230",
+        "comment": "432 helyett"
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "431 099",
+        "trainNo": "6240",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "431 100",
+        "trainNo": "5120",
+        "comment": "414 helyett"
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "431 108",
+        "trainNo": "6207",
+        "comment": "432 helyett"
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "431 132",
+        "trainNo": "IC650/650-1 Holló",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "431 132",
+        "trainNo": "IC194 Hernád-Zemplén",
+        "comment": "Hidasnémetiig"
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "431 135",
+        "trainNo": "5067",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "431 135",
+        "trainNo": "5136",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "431 140",
+        "trainNo": "6160",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "431 156",
+        "trainNo": "5312",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "431 165",
+        "trainNo": "IC582/582-1 Délibáb",
+        "comment": "630 helyett"
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "431 198",
+        "trainNo": "IC560/560-1 Dália",
+        "comment": "630 helyett"
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "431 332",
+        "trainNo": "5327",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "431 362",
+        "trainNo": "IC617 Hajdú",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "431 369",
+        "trainNo": "5032",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "432 171",
+        "trainNo": "6149",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "432 184",
+        "trainNo": "6140",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "432 235",
+        "trainNo": "6150",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "432 251",
+        "trainNo": "5537",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "432 251",
+        "trainNo": "5526",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "432 293",
+        "trainNo": "5732",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "432 303",
+        "trainNo": "6217",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "480 011",
+        "trainNo": "IC182 Hernád-Zemplén",
+        "comment": "Hidasnémetiig"
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "480 022",
+        "trainNo": "IC189 Hernád-Zemplén",
+        "comment": "Miskolctól"
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "480 022",
+        "trainNo": "IC564/564-1 Kamilla",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "480 016",
+        "trainNo": "IC580/580-1 Takta",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "480 016",
+        "trainNo": "IC656/656-1 Kócsag",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "630 019",
+        "trainNo": "IC600 Sóstó",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "630 021",
+        "trainNo": "IC529 Füzér",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "630 027",
+        "trainNo": "IC186 Hernád-Zemplén",
+        "comment": "Hidasnémetiig"
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "630 029",
+        "trainNo": "IC682/682-1 Tokaj",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "630 029",
+        "trainNo": "IC184 Hernád-Zemplén",
+        "comment": "Hidasnémetiig"
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "630 030",
+        "trainNo": "IC619 Bereg-Kraszna",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "630 035",
+        "trainNo": "5217",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "630 039",
+        "trainNo": "IC527 Zemplén",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "630 039",
+        "trainNo": "IC566/566-1 Rózsa",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "815 001",
+        "trainNo": "2822",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "815 002",
+        "trainNo": "2457",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "815 004",
+        "trainNo": "2447",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "815 006",
+        "trainNo": "3322",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "815 007",
+        "trainNo": "2357",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "815 008",
+        "trainNo": "2817",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "815 009",
+        "trainNo": "2717",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "815 010",
+        "trainNo": "2347",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "815 011",
+        "trainNo": "2337",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "815 013",
+        "trainNo": "2832",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "815 015",
+        "trainNo": "2442",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "815 019",
+        "trainNo": "2452",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "815 020",
+        "trainNo": "2342",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "815 024",
+        "trainNo": "3332",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-07",
+        "locID": "815 025",
+        "trainNo": "2627",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-10",
+        "locID": "117 179",
+        "trainNo": "36517",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-10",
+        "locID": "117 190",
+        "trainNo": "6637",
+        "comment": "Balmazújvárosig (vágányzár)"
+    },
+    {
+        "date": "2022-01-10",
+        "locID": "117 194",
+        "trainNo": "35214",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-10",
+        "locID": "117 290",
+        "trainNo": "6622",
+        "comment": "Balmazújvárostól (vágányzár)"
+    },
+    {
+        "date": "2022-01-10",
+        "locID": "117 321",
+        "trainNo": "36517",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-10",
+        "locID": "414 003",
+        "trainNo": "5117",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-10",
+        "locID": "414 013",
+        "trainNo": "5015",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-10",
+        "locID": "414 018",
+        "trainNo": "5112",
+        "comment": "Miskolcig (üzemképtelenség)"
+    },
+    {
+        "date": "2022-01-10",
+        "locID": "415 079",
+        "trainNo": "IR547 Agria",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-10",
+        "locID": "415 085",
+        "trainNo": "IR549 Agria",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-10",
+        "locID": "415 089",
+        "trainNo": "IR542 Agria",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-10",
+        "locID": "415 100",
+        "trainNo": "IR547 Agria",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-10",
+        "locID": "415 116",
+        "trainNo": "IR542 Agria",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-10",
+        "locID": "431 011",
+        "trainNo": "IC189 Hernád-Zemplén",
+        "comment": "Miskolctól, 480 helyett"
+    },
+    {
+        "date": "2022-01-10",
+        "locID": "431 366",
+        "trainNo": "5112",
+        "comment": "Miskolctól, 414 helyett"
+    },
+    {
+        "date": "2022-01-10",
+        "locID": "432 251",
+        "trainNo": "5537",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-10",
+        "locID": "432 251",
+        "trainNo": "5522",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-10",
+        "locID": "432 256",
+        "trainNo": "35612",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-10",
+        "locID": "432 256",
+        "trainNo": "35627",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-10",
+        "locID": "432 260",
+        "trainNo": "IC527 Zemplén",
+        "comment": "630 helyett"
+    },
+    {
+        "date": "2022-01-10",
+        "locID": "432 355",
+        "trainNo": "5097",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-10",
+        "locID": "432 355",
+        "trainNo": "5092",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-10",
+        "locID": "630 009",
+        "trainNo": "IC682/682-1 Tokaj",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-10",
+        "locID": "630 018",
+        "trainNo": "IC658/658-1 Vércse",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-10",
+        "locID": "630 047",
+        "trainNo": "IC560/560-1 Dália",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "117 176",
+        "trainNo": "5427",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "117 179",
+        "trainNo": "36522",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "117 184",
+        "trainNo": "5427",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "117 190",
+        "trainNo": "6622",
+        "comment": "Balmazújvárostól (vágányzár)"
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "117 194",
+        "trainNo": "35217",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "117 194",
+        "trainNo": "35222",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "117 200",
+        "trainNo": "35717",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "117 202",
+        "trainNo": "5412",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "117 223",
+        "trainNo": "36827",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "117 234",
+        "trainNo": "35417",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "117 235",
+        "trainNo": "36812",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "117 240",
+        "trainNo": "35217",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "117 240",
+        "trainNo": "35222",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "117 244",
+        "trainNo": "5412",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "117 269",
+        "trainNo": "6847",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "117 275",
+        "trainNo": "6837",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "117 283",
+        "trainNo": "35722",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "117 286",
+        "trainNo": "36827",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "117 290",
+        "trainNo": "6617",
+        "comment": "Balmazújvárosig (vágányzár)"
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "117 300",
+        "trainNo": "36829",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "117 347",
+        "trainNo": "6812",
+        "comment": "Nyírábrányig"
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "117 348",
+        "trainNo": "36517",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "117 377",
+        "trainNo": "36437",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "117 355",
+        "trainNo": "35412",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "117 386",
+        "trainNo": "36612",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "117 395",
+        "trainNo": "36617",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "117 396",
+        "trainNo": "6627",
+        "comment": "Balmazújvárosig (vágányzár)"
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "127 401",
+        "trainNo": "36012",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "127 403",
+        "trainNo": "36229",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "127 408",
+        "trainNo": "36229",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "127 417",
+        "trainNo": "36117",
+        "comment": "Nyírbátorig (járványügyi menetrend)"
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "127 418",
+        "trainNo": "36829",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "127 418",
+        "trainNo": "36322",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "127 421",
+        "trainNo": "36422",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "127 422",
+        "trainNo": "36017",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "414 001",
+        "trainNo": "5132",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "414 002",
+        "trainNo": "5140",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "414 003",
+        "trainNo": "5169",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "414 013",
+        "trainNo": "5222",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "414 020",
+        "trainNo": "5037",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "415 084",
+        "trainNo": "IR542 Agria",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "415 085",
+        "trainNo": "IR550 Agria",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "415 087",
+        "trainNo": "IR549 Agria",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "415 095",
+        "trainNo": "IR542 Agria",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "416 022",
+        "trainNo": "6312",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "416 027",
+        "trainNo": "36712",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "416 028",
+        "trainNo": "36727",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "418 135",
+        "trainNo": "6812",
+        "comment": "Valea Lui Mihai-ig"
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "418 140",
+        "trainNo": "6427",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "418 325",
+        "trainNo": "6310",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "418 334",
+        "trainNo": "6337",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "431 013",
+        "trainNo": "6230",
+        "comment": "432 helyett"
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "431 044",
+        "trainNo": "6240",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "431 048",
+        "trainNo": "IC600 Sóstó",
+        "comment": "630 helyett"
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "431 079",
+        "trainNo": "6160",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "431 099",
+        "trainNo": "6207",
+        "comment": "432 helyett"
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "431 108",
+        "trainNo": "IC619 Bereg-Kraszna",
+        "comment": "630 helyett"
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "431 140",
+        "trainNo": "IC650/650-1 Holló",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "431 156",
+        "trainNo": "5312",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "431 214",
+        "trainNo": "5032",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "431 217",
+        "trainNo": "6217",
+        "comment": "432 helyett"
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "431 229",
+        "trainNo": "IC682/682-1 Tokaj",
+        "comment": "630 helyett"
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "431 287",
+        "trainNo": "IC529 Füzér",
+        "comment": "630 helyett"
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "431 352",
+        "trainNo": "5067",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "431 361",
+        "trainNo": "5120",
+        "comment": "414 helyett"
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "431 372",
+        "trainNo": "IC189 Hernád-Zemplén",
+        "comment": "Miskolctól, 480 helyett"
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "432 236",
+        "trainNo": "5722",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "432 238",
+        "trainNo": "6149",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "432 251",
+        "trainNo": "5097",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "432 292",
+        "trainNo": "6140",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "432 304",
+        "trainNo": "6150",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "432 355",
+        "trainNo": "35627",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "480 006",
+        "trainNo": "IC182 Hernád-Zemplén",
+        "comment": "Hidasnémetiig"
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "480 016",
+        "trainNo": "IC580/580-1 Takta",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "630 013",
+        "trainNo": "IC560/560-1 Dália",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "630 018",
+        "trainNo": "IC582/582-1 Délibáb",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "630 028",
+        "trainNo": "5217",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "630 033",
+        "trainNo": "IC527 Zemplén",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "630 047",
+        "trainNo": "IC617 Hajdú",
+        "comment": "Kisvárdáig (üzemképtelenség)"
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "815 001",
+        "trainNo": "2732",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "815 007",
+        "trainNo": "2337",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "815 009",
+        "trainNo": "2442",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "815 010",
+        "trainNo": "2447",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "815 011",
+        "trainNo": "2327",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "815 013",
+        "trainNo": "2817",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "815 014",
+        "trainNo": "2432",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "815 016",
+        "trainNo": "2627",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "815 018",
+        "trainNo": "2832",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "815 019",
+        "trainNo": "2457",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "815 022",
+        "trainNo": "2347",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "815 023",
+        "trainNo": "2332",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "815 027",
+        "trainNo": "3322",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-11",
+        "locID": "815 028",
+        "trainNo": "2759",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "117 176",
+        "trainNo": "5427",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "117 193",
+        "trainNo": "36522",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "117 194",
+        "trainNo": "35222",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "117 201",
+        "trainNo": "35722",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "117 223",
+        "trainNo": "36827",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "117 234",
+        "trainNo": "35417",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "117 235",
+        "trainNo": "36829",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "117 235",
+        "trainNo": "36312",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "117 236",
+        "trainNo": "5412",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "117 236",
+        "trainNo": "5437",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "117 240",
+        "trainNo": "35222",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "117 252",
+        "trainNo": "36517",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "117 256",
+        "trainNo": "35717",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "117 269",
+        "trainNo": "36617",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "117 275",
+        "trainNo": "6847",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "117 286",
+        "trainNo": "36827",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "117 290",
+        "trainNo": "6617",
+        "comment": "Balmazújvárosig (vágányzár)"
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "117 327",
+        "trainNo": "6622",
+        "comment": "Balmazújvárostól (vágányzár)"
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "117 346",
+        "trainNo": "36812",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "117 347",
+        "trainNo": "36612",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "117 348",
+        "trainNo": "36517",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "117 355",
+        "trainNo": "35412",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "117 369",
+        "trainNo": "5412",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "117 369",
+        "trainNo": "5437",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "117 377",
+        "trainNo": "36422",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "117 384",
+        "trainNo": "6857",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "117 388",
+        "trainNo": "6837",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "117 396",
+        "trainNo": "36917",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "127 401",
+        "trainNo": "36012",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "127 402",
+        "trainNo": "36012",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "127 414",
+        "trainNo": "36229",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "127 416",
+        "trainNo": "36229",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "127 417",
+        "trainNo": "36829",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "127 419",
+        "trainNo": "36117",
+        "comment": "Nyírbátorig (járványügyi menetrend)"
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "127 421",
+        "trainNo": "36437",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "127 422",
+        "trainNo": "36017",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "414 001",
+        "trainNo": "5222",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "414 002",
+        "trainNo": "5169",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "414 003",
+        "trainNo": "5120",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "414 011",
+        "trainNo": "5037",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "414 012",
+        "trainNo": "5140",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "414 020",
+        "trainNo": "5132",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "415 037",
+        "trainNo": "IR549 Agria",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "415 073",
+        "trainNo": "IR547 Agria",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "415 087",
+        "trainNo": "IR547 Agria",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "415 106",
+        "trainNo": "IR542 Agria",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "415 114",
+        "trainNo": "IR542 Agria",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "416 022",
+        "trainNo": "36712",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "416 027",
+        "trainNo": "36727",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "416 031",
+        "trainNo": "6312",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "418 130",
+        "trainNo": "6427",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "418 135",
+        "trainNo": "6812",
+        "comment": "Valea Lui Mihai-ig"
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "418 145",
+        "trainNo": "6337",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "418 321",
+        "trainNo": "6347",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "418 334",
+        "trainNo": "36617",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "431 011",
+        "trainNo": "5067",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "431 013",
+        "trainNo": "IC600 Sóstó",
+        "comment": "630 helyett"
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "431 044",
+        "trainNo": "6230",
+        "comment": "432 helyett"
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "431 048",
+        "trainNo": "5217",
+        "comment": "630 helyett"
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "431 099",
+        "trainNo": "6149",
+        "comment": "432 helyett"
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "431 108",
+        "trainNo": "IC650/650-1 Holló",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "431 156",
+        "trainNo": "5327",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "431 166",
+        "trainNo": "IC682/682-1 Tokaj",
+        "comment": "630 helyett"
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "431 183",
+        "trainNo": "IC529 Füzér",
+        "comment": "630 helyett"
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "431 198",
+        "trainNo": "6150",
+        "comment": "432 helyett"
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "431 229",
+        "trainNo": "5267",
+        "comment": "414 helyett"
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "431 337",
+        "trainNo": "5232",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "431 352",
+        "trainNo": "6160",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "431 366",
+        "trainNo": "IC527 Zemplén",
+        "comment": "630 helyett"
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "431 371",
+        "trainNo": "5312",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "432 247",
+        "trainNo": "6140",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "432 303",
+        "trainNo": "6207",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "432 304",
+        "trainNo": "6217",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "432 311",
+        "trainNo": "6240",
+        "comment": "431 helyett"
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "480 006",
+        "trainNo": "IC182 Hernád-Zemplén",
+        "comment": "Hidasnémetiig"
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "480 016",
+        "trainNo": "IC580/580-1 Takta",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "480 025",
+        "trainNo": "IC189 Hernád-Zemplén",
+        "comment": "Miskolctól"
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "630 018",
+        "trainNo": "IC560/560-1 Dália",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "630 024",
+        "trainNo": "S6199",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "630 028",
+        "trainNo": "IC582/582-1 Délibáb",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "815 001",
+        "trainNo": "2347",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "815 002",
+        "trainNo": "2337",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "815 006",
+        "trainNo": "2627",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "815 007",
+        "trainNo": "2447",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "815 009",
+        "trainNo": "2832",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "815 010",
+        "trainNo": "2467",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "815 011",
+        "trainNo": "2442",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "815 014",
+        "trainNo": "2452",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "815 015",
+        "trainNo": "2457",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "815 016",
+        "trainNo": "2817",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "815 017",
+        "trainNo": "3347",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "815 018",
+        "trainNo": "3322",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "815 023",
+        "trainNo": "3332",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "815 025",
+        "trainNo": "2342",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-12",
+        "locID": "815 028",
+        "trainNo": "2727",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "117 179",
+        "trainNo": "36517",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "117 184",
+        "trainNo": "5427",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "117 190",
+        "trainNo": "6617",
+        "comment": "Balmazújvárosig (vágányzár)"
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "117 194",
+        "trainNo": "35222",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "117 198",
+        "trainNo": "36517",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "117 202",
+        "trainNo": "5427",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "117 234",
+        "trainNo": "35417",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "117 236",
+        "trainNo": "5412",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "117 240",
+        "trainNo": "35222",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "117 244",
+        "trainNo": "35412",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "117 269",
+        "trainNo": "36617",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "117 286",
+        "trainNo": "36812",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "117 327",
+        "trainNo": "6622",
+        "comment": "Balmazújvárostól (vágányzár)"
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "117 341",
+        "trainNo": "5832",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "117 346",
+        "trainNo": "36312",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "117 351",
+        "trainNo": "36917",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "117 369 ",
+        "trainNo": "5412",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "117 377",
+        "trainNo": "36437",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "117 386",
+        "trainNo": "36612",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "117 388",
+        "trainNo": "6847",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "117 395",
+        "trainNo": "6837",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "117 396",
+        "trainNo": "6627",
+        "comment": "Balmazújvárosig (vágányzár)"
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "127 402",
+        "trainNo": "36827",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "127 405",
+        "trainNo": "36017",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "127 407",
+        "trainNo": "36012",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "127 410",
+        "trainNo": "36229",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "127 418",
+        "trainNo": "36117",
+        "comment": "Nyírbátorig (járványügyi menetrend)"
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "127 421",
+        "trainNo": "36422",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "127 422",
+        "trainNo": "36017",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "414 002",
+        "trainNo": "5125",
+        "comment": "Miskolctól (üzemképtelenség)"
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "414 007",
+        "trainNo": "5032",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "414 011",
+        "trainNo": "5037",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "414 011",
+        "trainNo": "5125",
+        "comment": "Hernádnémeti-Bőcsig (üzemképtelenség)"
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "414 012",
+        "trainNo": "5169",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "414 018",
+        "trainNo": "5222",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "414 020",
+        "trainNo": "5120",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "415 061",
+        "trainNo": "IR547 Agria",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "415 074",
+        "trainNo": "IR547 Agria",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "415 091",
+        "trainNo": "IR542 Agria",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "415 101",
+        "trainNo": "IR549 Agria",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "415 111",
+        "trainNo": "IR542 Agria",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "416 027",
+        "trainNo": "36727",
+        "comment": "vége (műszaki ok)"
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "416 031",
+        "trainNo": "36727",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "418 140",
+        "trainNo": "6427",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "418 145",
+        "trainNo": "6312",
+        "comment": "416 helyett"
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "418 166",
+        "trainNo": "6412",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "418 304",
+        "trainNo": "IR8902 Pannónia",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "418 321",
+        "trainNo": "6812",
+        "comment": "Valea Lui Mihai-ig"
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "418 325",
+        "trainNo": "6337",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "431 007",
+        "trainNo": "5140",
+        "comment": "414 helyett"
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "431 007",
+        "trainNo": "5117",
+        "comment": "414 helyett"
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "431 011",
+        "trainNo": "6160",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "431 044",
+        "trainNo": "6240",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "431 100",
+        "trainNo": "5327",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "431 100",
+        "trainNo": "IC522 Zemplén",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "431 108",
+        "trainNo": "5217",
+        "comment": "630 helyett"
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "431 115",
+        "trainNo": "6150",
+        "comment": "432 helyett"
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "431 132",
+        "trainNo": "5232",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "431 156",
+        "trainNo": "5312",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "431 198",
+        "trainNo": "6217",
+        "comment": "432 helyett"
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "431 217",
+        "trainNo": "6207",
+        "comment": "432 helyett"
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "431 229",
+        "trainNo": "IC582/582-1 Délibáb",
+        "comment": "630 helyett"
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "431 290",
+        "trainNo": "IC560/560-1 Dália",
+        "comment": "630 helyett"
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "431 337",
+        "trainNo": "IC650/650-1 Holló",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "431 344",
+        "trainNo": "5067",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "431 361",
+        "trainNo": "5132",
+        "comment": "414 helyett"
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "431 366",
+        "trainNo": "IC682/682-1 Tokaj",
+        "comment": "630 helyett"
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "431 366",
+        "trainNo": "5264",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "431 368",
+        "trainNo": "35025",
+        "comment": "117 helyett"
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "431 369",
+        "trainNo": "IC192 Hernád-Zemplén",
+        "comment": "Hidasnémetiig"
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "432 213",
+        "trainNo": "5537",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "432 256",
+        "trainNo": "5092",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "432 293",
+        "trainNo": "5732",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "432 303",
+        "trainNo": "6149",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "432 304",
+        "trainNo": "6140",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "432 311",
+        "trainNo": "6230",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "480 006",
+        "trainNo": "IC182 Hernád-Zemplén",
+        "comment": "Hidasnémetiig"
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "480 006",
+        "trainNo": "5335",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "480 016",
+        "trainNo": "IC580/580-1 Takta",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "480 022",
+        "trainNo": "IC189 Hernád-Zemplén",
+        "comment": "Miskolctól"
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "630 023",
+        "trainNo": "6012",
+        "comment": "432 helyett"
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "630 024",
+        "trainNo": "IC527 Zemplén",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "630 028",
+        "trainNo": "IC600 Sóstó",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-13",
+        "locID": "630 030",
+        "trainNo": "S6199",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-14",
+        "locID": "431 219",
+        "trainNo": "5055",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-14",
+        "locID": "Bzmot 343",
+        "trainNo": "5816",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-15",
+        "locID": "431 183",
+        "trainNo": "IC568/568-1 Tulipán",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-15",
+        "locID": "431 287",
+        "trainNo": "IC650-1 Holló",
+        "comment": "segélygép Miskolc-Tiszaitól"
+    },
+    {
+        "date": "2022-01-15",
+        "locID": "431 368",
+        "trainNo": "IC650-1 Holló",
+        "comment": "segélyelőfogat Rakamaztól Miskolc-Tiszaiig"
+    },
+    {
+        "date": "2022-01-15",
+        "locID": "630 047",
+        "trainNo": "IC650/650-1 Holló",
+        "comment": "Miskolc-Tiszaiig (üzemképtelenség)"
+    },
+    {
+        "date": "2022-01-16",
+        "locID": "117 338",
+        "trainNo": "37125",
+        "comment": "Lakitelekig (baleset)"
+    },
+    {
+        "date": "2022-01-16",
+        "locID": "415 097",
+        "trainNo": "S6109",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-16",
+        "locID": "415 117",
+        "trainNo": "S6109",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-16",
+        "locID": "431 100",
+        "trainNo": "IC580/580-1 Takta",
+        "comment": "480 helyett"
+    },
+    {
+        "date": "2022-01-16",
+        "locID": "480 007",
+        "trainNo": "IC182 Hernád-Zemplén",
+        "comment": "Hidasnémetiig"
+    },
+    {
+        "date": "2022-01-16",
+        "locID": "480 010",
+        "trainNo": "IC34 Latorca",
+        "comment": "Záhonyig"
+    },
+    {
+        "date": "2022-01-16",
+        "locID": "815 005",
+        "trainNo": "S6102",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-17",
+        "locID": "117 169",
+        "trainNo": "35427",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-17",
+        "locID": "117 184",
+        "trainNo": "5422",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-17",
+        "locID": "117 194",
+        "trainNo": "36532",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-17",
+        "locID": "117 198",
+        "trainNo": "36532",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-17",
+        "locID": "117 240",
+        "trainNo": "35227",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-17",
+        "locID": "117 244",
+        "trainNo": "35227",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-17",
+        "locID": "117 245",
+        "trainNo": "5437",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-17",
+        "locID": "117 348",
+        "trainNo": "5422",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-17",
+        "locID": "117 352",
+        "trainNo": "35422",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-17",
+        "locID": "117 355",
+        "trainNo": "6637",
+        "comment": "Balmazújvárosig (vágányzár)"
+    },
+    {
+        "date": "2022-01-17",
+        "locID": "117 377",
+        "trainNo": "36812",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-17",
+        "locID": "117 386",
+        "trainNo": "36627",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-17",
+        "locID": "127 401",
+        "trainNo": "36012",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-17",
+        "locID": "127 405",
+        "trainNo": "36012",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-17",
+        "locID": "127 409",
+        "trainNo": "36447",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-17",
+        "locID": "414 003",
+        "trainNo": "5047",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-17",
+        "locID": "414 009",
+        "trainNo": "5132",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-17",
+        "locID": "414 012",
+        "trainNo": "5117",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-17",
+        "locID": "414 018",
+        "trainNo": "5057",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-17",
+        "locID": "414 020",
+        "trainNo": "5120",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-17",
+        "locID": "415 100",
+        "trainNo": "IR557 Agria",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-17",
+        "locID": "415 122",
+        "trainNo": "IR557 Agria",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-17",
+        "locID": "416 031",
+        "trainNo": "6312",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-17",
+        "locID": "418 174",
+        "trainNo": "32517",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-17",
+        "locID": "431 007",
+        "trainNo": "IC650/650-1 Holló",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-17",
+        "locID": "431 048",
+        "trainNo": "IC682/682-1 Tokaj",
+        "comment": "630 helyett"
+    },
+    {
+        "date": "2022-01-17",
+        "locID": "431 096",
+        "trainNo": "5112",
+        "comment": "Hernádnémeti-Bőcsig (áramszedőtörés), 414 helyett"
+    },
+    {
+        "date": "2022-01-17",
+        "locID": "431 198",
+        "trainNo": "IC520 Zemplén",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-17",
+        "locID": "431 261",
+        "trainNo": "5008",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-17",
+        "locID": "431 290",
+        "trainNo": "IC182 Hernád-Zemplén",
+        "comment": "Hidasnémetiig, 470/480 helyett"
+    },
+    {
+        "date": "2022-01-17",
+        "locID": "431 344",
+        "trainNo": "3148",
+        "comment": "biztosítóberendezési hiba"
+    },
+    {
+        "date": "2022-01-17",
+        "locID": "431 344",
+        "trainNo": "IC508 Hámor",
+        "comment": "Gödöllőtől (biztosítóberendezési hiba)"
+    },
+    {
+        "date": "2022-01-17",
+        "locID": "431 365",
+        "trainNo": "IC560/560-1 Dália",
+        "comment": "630 helyett"
+    },
+    {
+        "date": "2022-01-17",
+        "locID": "431 368",
+        "trainNo": "5267",
+        "comment": "414 helyett"
+    },
+    {
+        "date": "2022-01-17",
+        "locID": "431 371",
+        "trainNo": "IC199 Hernád",
+        "comment": "Hidasnémetitől Miskolc-Tiszaiig, ZSSK 362 helyett"
+    },
+    {
+        "date": "2022-01-17",
+        "locID": "431 371",
+        "trainNo": "IC191 Hernád-Zemplén",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-17",
+        "locID": "432 171",
+        "trainNo": "5522",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-17",
+        "locID": "432 213",
+        "trainNo": "5087",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-17",
+        "locID": "432 311",
+        "trainNo": "6250",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-17",
+        "locID": "432 360",
+        "trainNo": "6227",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-17",
+        "locID": "480 012",
+        "trainNo": "IC518 Borsod",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-17",
+        "locID": "630 018",
+        "trainNo": "IC617 Hajdú",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-17",
+        "locID": "630 033",
+        "trainNo": "IC527 Zemplén",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "117 163",
+        "trainNo": "37750",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "117 176",
+        "trainNo": "35417",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "117 179",
+        "trainNo": "6617",
+        "comment": "Balmazújvárosig (vágányzár)"
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "117 184",
+        "trainNo": "5437",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "117 190",
+        "trainNo": "5437",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "117 235",
+        "trainNo": "36812",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "117 236",
+        "trainNo": "35412",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "117 240",
+        "trainNo": "35222",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "117 244",
+        "trainNo": "35222",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "117 275",
+        "trainNo": "36617",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "117 286",
+        "trainNo": "36827",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "117 346",
+        "trainNo": "36827",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "117 347",
+        "trainNo": "6857",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "117 351",
+        "trainNo": "6627",
+        "comment": "Balmazújvárosig (vágányzár)"
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "117 355",
+        "trainNo": "6622",
+        "comment": "Balmazújvárostól (vágányzár)"
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "117 369",
+        "trainNo": "5427",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "117 384",
+        "trainNo": "6847",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "117 386",
+        "trainNo": "36612",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "117 394",
+        "trainNo": "5427",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "117 396",
+        "trainNo": "36917",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "127 401",
+        "trainNo": "36012",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "127 405",
+        "trainNo": "36012",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "127 408",
+        "trainNo": "36312",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "127 409",
+        "trainNo": "36422",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "127 410",
+        "trainNo": "36437",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "127 414",
+        "trainNo": "36017",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "362 008 (ZSSK)",
+        "trainNo": "IC195 Hernád",
+        "comment": "Szikszó-Vásártérig (üzemképtelenség)"
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "414 001",
+        "trainNo": "5140",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "414 001",
+        "trainNo": "5138",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "414 002",
+        "trainNo": "5132",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "414 011",
+        "trainNo": "5231",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "414 012",
+        "trainNo": "5169",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "414 012",
+        "trainNo": "5128",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "414 013",
+        "trainNo": "5112",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "414 013",
+        "trainNo": "511",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "414 018",
+        "trainNo": "5120",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "414 020",
+        "trainNo": "5047",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "414 020",
+        "trainNo": "5111",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "415 062",
+        "trainNo": "IR542 Agria",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "415 100",
+        "trainNo": "IR547 Agria",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "415 108",
+        "trainNo": "IR547 Agria",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "415 109",
+        "trainNo": "IR542 Agria",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "416 027",
+        "trainNo": "6312",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "416 031",
+        "trainNo": "36712",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "418 130",
+        "trainNo": "6427",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "418 135",
+        "trainNo": "6412",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "418 174",
+        "trainNo": "32512",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "418 322",
+        "trainNo": "6337",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "418 332",
+        "trainNo": "6347",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "431 007",
+        "trainNo": "5067",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "431 011",
+        "trainNo": "S6008",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "431 102",
+        "trainNo": "6207",
+        "comment": "432 helyett"
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "431 108",
+        "trainNo": "IC600 Sóstó",
+        "comment": "630 helyett"
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "431 140",
+        "trainNo": "S6199 (segélyelőfogat Sl-tól)",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "431 143",
+        "trainNo": "6221",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "431 156",
+        "trainNo": "IC650/650-1 Holló",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "431 182",
+        "trainNo": "6160",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "431 182",
+        "trainNo": "S6108",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "431 183",
+        "trainNo": "5008",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "431 198",
+        "trainNo": "IC189 Hernád-Zemplén",
+        "comment": "Miskolctól, 480 helyett"
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "431 219",
+        "trainNo": "IC582/582-1 Délibáb",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "431 261",
+        "trainNo": "5327",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "431 348",
+        "trainNo": "S6102",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "431 361",
+        "trainNo": "IC182 Hernád-Zemplén",
+        "comment": "Hidasnémetiig, 470/480 helyett"
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "431 365",
+        "trainNo": "IC617 Hajdú",
+        "comment": "630 helyett"
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "432 171",
+        "trainNo": "5092",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "432 236",
+        "trainNo": "5537",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "432 303",
+        "trainNo": "6149",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "432 360",
+        "trainNo": "6240",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "480 009",
+        "trainNo": "IC188 Hernád-Zemplén",
+        "comment": "Hidasnémetiig"
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "480 012",
+        "trainNo": "IC580/580-1 Takta",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "480 012",
+        "trainNo": "IC518 Borsod",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "480 013",
+        "trainNo": "IC516 Füzér-Tokaj",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "480 016",
+        "trainNo": "EC149-2 Hortobágy",
+        "comment": "Budapest-Keletitől"
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "480 019",
+        "trainNo": "IC560/560-1 Dália",
+        "comment": "630 helyett"
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "480 022",
+        "trainNo": "IC618 Várda",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "630 021",
+        "trainNo": "IC527 Zemplén",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "630 021",
+        "trainNo": "S6018",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "630 027",
+        "trainNo": "5232",
+        "comment": "431 helyett"
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "630 028",
+        "trainNo": "S6199",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "630 033",
+        "trainNo": "IC682/682-1 Tokaj",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "630 048",
+        "trainNo": "6150",
+        "comment": "432 helyett"
+    },
+    {
+        "date": "2022-01-18",
+        "locID": "630 048",
+        "trainNo": "6231",
+        "comment": "432 helyett"
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "117 169",
+        "trainNo": "35412",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "117 176",
+        "trainNo": "35417",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "117 198",
+        "trainNo": "36517",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "117 213",
+        "trainNo": "36517",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "117 216",
+        "trainNo": "35717",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "117 223",
+        "trainNo": "36812",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "117 234",
+        "trainNo": "5427",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "117 235",
+        "trainNo": "36312",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "117 240",
+        "trainNo": "35222",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "117 244",
+        "trainNo": "35222",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "117 245",
+        "trainNo": "5427",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "117 252",
+        "trainNo": "36522",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "117 269",
+        "trainNo": "6847",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "117 286",
+        "trainNo": "36827",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "117 327",
+        "trainNo": "6622",
+        "comment": "Balmazújvárostól (vágányzár)"
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "117 344",
+        "trainNo": "5832",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "117 346",
+        "trainNo": "36827",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "117 348",
+        "trainNo": "6617",
+        "comment": "Balmazújvárosig (vágányzár)"
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "117 351",
+        "trainNo": "36917",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "117 369",
+        "trainNo": "5437",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "117 384",
+        "trainNo": "36617",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "117 386",
+        "trainNo": "36612",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "117 388",
+        "trainNo": "6857",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "117 394",
+        "trainNo": "5437",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "127 401",
+        "trainNo": "36012",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "127 402",
+        "trainNo": "36017",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "127 403",
+        "trainNo": "36229",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "127 405",
+        "trainNo": "36012",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "127 408",
+        "trainNo": "36229",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "127 410",
+        "trainNo": "36422",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "127 417",
+        "trainNo": "36437",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "414 001",
+        "trainNo": "5169",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "414 001",
+        "trainNo": "5116",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "414 003",
+        "trainNo": "5125",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "414 004",
+        "trainNo": "5120",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "414 007",
+        "trainNo": "5132",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "414 007",
+        "trainNo": "5145",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "414 011",
+        "trainNo": "5124",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "414 012",
+        "trainNo": "5140",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "414 012",
+        "trainNo": "5113",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "415 061",
+        "trainNo": "IR542 Agria",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "415 087",
+        "trainNo": "IR542 Agria",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "415 089",
+        "trainNo": "IR547 Agria",
+        "comment": "eleje"
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "415 102",
+        "trainNo": "IR547 Agria",
+        "comment": "vége"
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "416 027",
+        "trainNo": "6312",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "416 028",
+        "trainNo": "36727",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "418 108",
+        "trainNo": "6812",
+        "comment": "Valea Lui Mihai-ig"
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "418 130",
+        "trainNo": "6412",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "418 135",
+        "trainNo": "6427",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "418 321",
+        "trainNo": "6347",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "418 334",
+        "trainNo": "6337",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "431 007",
+        "trainNo": "6160",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "431 011",
+        "trainNo": "6217",
+        "comment": "432 helyett"
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "431 079",
+        "trainNo": "5115",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "431 102",
+        "trainNo": "6149",
+        "comment": "432 helyett"
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "431 108",
+        "trainNo": "6123",
+        "comment": "432 helyett"
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "431 123",
+        "trainNo": "S6199",
+        "comment": "630 helyett"
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "431 140",
+        "trainNo": "IC527 Zemplén",
+        "comment": "630 helyett"
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "431 143",
+        "trainNo": "6150",
+        "comment": "432 helyett"
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "431 183",
+        "trainNo": "5327",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "431 183",
+        "trainNo": "IC195 Hernád-Zemplén",
+        "comment": "Miskolctól"
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "431 219",
+        "trainNo": "IC600 Sóstó",
+        "comment": "630 helyett"
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "431 261",
+        "trainNo": "5315",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "431 261",
+        "trainNo": "IC521 Zemplén",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "431 290",
+        "trainNo": "5067",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "431 290",
+        "trainNo": "5136",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "431 240",
+        "trainNo": "IC582/582-1 Délibáb",
+        "comment": "630 helyett"
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "431 306",
+        "trainNo": "IC182 Hernád-Zemplén",
+        "comment": "Hidasnémetiig, 470/480 helyett"
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "431 344",
+        "trainNo": "5232",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "431 344",
+        "trainNo": "IC568/568-1 Tulipán",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "431 348",
+        "trainNo": "IC506 Zemplén",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "431 366",
+        "trainNo": "6226",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "431 372",
+        "trainNo": "IC650/650-1 Holló",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "432 236",
+        "trainNo": "5092",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "432 244",
+        "trainNo": "6207",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "432 244",
+        "trainNo": "6293",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "432 355",
+        "trainNo": "6240",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "480 012",
+        "trainNo": "IC580/580-1 Takta",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "480 012",
+        "trainNo": "IC656/656-1 Kócsag",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "480 013",
+        "trainNo": "IC189 Hernád-Zemplén",
+        "comment": "Miskolctól"
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "480 019",
+        "trainNo": "IC617 Hajdú",
+        "comment": "630 helyett"
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "630 018",
+        "trainNo": "IC560/560-1 Dália",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "630 021",
+        "trainNo": "IC682/682-1 Tokaj",
+        "comment": ""
+    },
+    {
+        "date": "2022-01-19",
+        "locID": "630 021",
+        "trainNo": "IC184 Hernád-Zemplén",
+        "comment": "Hidasnémetiig"
+    },
+    {
+        "date": "2022-01-20",
+        "locID": "",
+        "trainNo": "",
+        "comment": ""
+    }
+     
+    
+]
