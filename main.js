@@ -102,27 +102,19 @@ class TrainSearch {
                     const trains = JSON.parse(xhr.responseText);
 
                     let suggestionHTML = '';
-                    
+                    let allSuggestions = [];
                     for(let trainData of trains) {
-
-                       /*
-                       let allSuggestions = [];
-                       let suggestion = trainData.locID;
-                        if(allSuggestions.includes(suggestion)) {
-                            allSuggestions.push(suggestion);
-                            suggestion += allSuggestions;
-                        };
-                        console.log(suggestion);
-                        suggestion.push(allSuggestions);
-                        suggestion.sort(); */
-                        
-                        
                         if(trainData.locID.toLowerCase().startsWith(searchTextId.toLowerCase() )) {
+                            allSuggestions.push(trainData.locID);
+                            let suggestions = allSuggestions.sort();
+                            
                             var newSuggestion =
                             '<p locnumber="'+trainData.locID+'" class="m-0 px-2 py-1">'+searchTextId+trainData.locID.slice(searchTextId.length)+'</p>';
+                            console.log(suggestions);
                             if(!suggestionHTML.includes(newSuggestion)) {
                                 suggestionHTML += newSuggestion;
                             }
+                        
                         }
                     }
 
@@ -133,6 +125,46 @@ class TrainSearch {
                     for(let suggestionP of trainIdSuggestions) {
                         suggestionP.onclick = this.setTrainIdSearchFieldValue;
                     }
+
+                    /*
+                    for(let trainData of trains) {
+                        
+                        if(trainData.locID.toLowerCase().startsWith(searchTextId.toLowerCase() )) {
+                             allSuggestions.push(trainData.locID);
+                             let suggestions = allSuggestions.sort();
+                             console.log(suggestions);
+
+                            allSuggestions.push(searchTextId+trainData.locID.slice(searchTextId.length));
+                        
+                            var newSuggestion =
+                            '<p locnumber="'+trainData.locID+'" class="m-0 px-2 py-1">'+searchTextId+trainData.locID.slice(searchTextId.length)+'</p>';
+                            if(!suggestionHTML.includes(newSuggestion)) {
+                                suggestionHTML += newSuggestion;
+                            }
+                            
+                        }
+                    } */
+                    
+                    /*
+                    let allSuggestions = [];
+                    let suggestion = trainData.locID;
+                    if(allSuggestions.includes(suggestion)) {
+                        allSuggestions.push(suggestion);
+                        suggestion += allSuggestions;
+                    };
+                    console.log(suggestion);
+                    suggestion.push(allSuggestions);
+                    suggestion.sort();
+                    */
+
+                    /*
+                    this.trainIdSuggestionBox.innerHTML = (suggestionHTML.length > 0) ? suggestionHTML :
+                    '<p class="m-0 px-2 py-1">Nincs javaslat</p>';
+                    
+                    var trainIdSuggestions = document.querySelectorAll('#trainIdSuggestionBox p');
+                    for(let suggestionP of trainIdSuggestions) {
+                        suggestionP.onclick = this.setTrainIdSearchFieldValue;
+                    } */
                 }
             }
         } else {
