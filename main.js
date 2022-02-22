@@ -103,14 +103,23 @@ class TrainSearch {
 
                     let suggestionHTML = '';
                     let allSuggestions = [];
+                   
                     for(let trainData of trains) {
-                        if(trainData.locID.toLowerCase().startsWith(searchTextId.toLowerCase() )) {
-                            allSuggestions.push(trainData.locID);
-                            let suggestions = allSuggestions.sort();
-                            
+                        
+                        let locData = trainData.locID;
+                        
+                        if(locData.toLowerCase().startsWith(searchTextId.toLowerCase() )) {
+                            allSuggestions.push(locData);
+                            console.log(locData);
+                        /*
+                            let suggestions = allSuggestions.sort( function (a, b) { 
+                                return a.locID - b.locID;
+                            });
+                        */
+                           
                             var newSuggestion =
-                            '<p locnumber="'+trainData.locID+'" class="m-0 px-2 py-1">'+searchTextId+trainData.locID.slice(searchTextId.length)+'</p>';
-                            console.log(suggestions);
+                            '<p locnumber="'+locData+'" class="m-0 px-2 py-1">'+searchTextId+locData.slice(searchTextId.length)+'</p>';
+
                             if(!suggestionHTML.includes(newSuggestion)) {
                                 suggestionHTML += newSuggestion;
                             }
