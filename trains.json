@@ -21385,12 +21385,354 @@
     },
     {
         "date": "2007-09-03",
+        "locID": "Bzmot 188",
+        "trainNo": "5254",
+        "comment": ""
+    },
+    {
+        "date": "2007-09-03",
+        "locID": "Bzmot 284",
+        "trainNo": "5254",
+        "comment": ""
+    },
+    {
+        "date": "2007-09-03",
+        "locID": "Bzmot 356",
+        "trainNo": "36122",
+        "comment": ""
+    },
+    {
+        "date": "2007-09-03",
+        "locID": "Bzmot 356",
+        "trainNo": "36125",
+        "comment": ""
+    },
+    {
+        "date": "2007-09-03",
+        "locID": "Bzmot 356",
+        "trainNo": "36116",
+        "comment": ""
+    },
+    {
+        "date": "2007-09-03",
+        "locID": "Bzmot 364",
+        "trainNo": "36436",
+        "comment": ""
+    },
+    {
+        "date": "2007-09-03",
+        "locID": "Bzmot 364",
+        "trainNo": "36433",
+        "comment": ""
+    },
+    {
+        "date": "2007-09-03",
+        "locID": "Bzmot 376",
+        "trainNo": "36014",
+        "comment": ""
+    },
+    {
+        "date": "2007-09-03",
+        "locID": "Bzmot 376",
+        "trainNo": "36025",
+        "comment": ""
+    },
+    {
+        "date": "2007-09-03",
+        "locID": "Bzmot 376",
+        "trainNo": "36026",
+        "comment": ""
+    },
+    {
+        "date": "2007-09-03",
+        "locID": "Bzmot 394",
+        "trainNo": "36016",
+        "comment": ""
+    },
+    {
+        "date": "2007-09-03",
+        "locID": "Bzmot 402",
+        "trainNo": "36432",
+        "comment": ""
+    },
+    {
+        "date": "2007-09-03",
+        "locID": "Bzmot 402",
+        "trainNo": "36447",
+        "comment": ""
+    },
+    {
+        "date": "2007-09-03",
+        "locID": "M41 2171",
+        "trainNo": "521",
+        "comment": "Miskolc-Tiszaiig"
+    },
+    {
+        "date": "2007-09-03",
+        "locID": "M41 2326",
+        "trainNo": "6614",
+        "comment": ""
+    },
+    {
+        "date": "2007-09-03",
+        "locID": "MDmot 3036",
+        "trainNo": "6635",
+        "comment": ""
+    },
+    {
+        "date": "2007-09-03",
+        "locID": "MDmot 3036",
+        "trainNo": "6634",
+        "comment": ""
+    },
+    {
+        "date": "2007-09-03",
+        "locID": "MDmot 3036",
+        "trainNo": "6645",
+        "comment": ""
+    },
+    {
+        "date": "2007-09-03",
+        "locID": "MDmot 3036",
+        "trainNo": "6644",
+        "comment": ""
+    },
+    {
+        "date": "2007-09-03",
+        "locID": "V43 1022",
+        "trainNo": "5149",
+        "comment": ""
+    },
+    {
+        "date": "2007-09-03",
+        "locID": "V43 1022",
+        "trainNo": "5132",
+        "comment": ""
+    },
+    {
+        "date": "2007-09-03",
+        "locID": "V43 1022",
+        "trainNo": "5127",
+        "comment": ""
+    },
+    {
+        "date": "2007-09-03",
+        "locID": "V43 1022",
+        "trainNo": "5114",
+        "comment": ""
+    },
+    {
+        "date": "2007-09-03",
+        "locID": "V43 1028",
+        "trainNo": "5117",
+        "comment": ""
+    },
+    {
+        "date": "2007-09-03",
+        "locID": "V43 1047",
+        "trainNo": "IC657-2/657 Dália",
+        "comment": "Szolnokig (vágányzár)"
+    },
+    {
+        "date": "2007-09-03",
+        "locID": "V43 1047",
+        "trainNo": "IC12657 Dália",
+        "comment": "Szolnoktól (vágányzár)"
+    },
+    {
+        "date": "2007-09-03",
+        "locID": "V43 1086",
+        "trainNo": "5145",
+        "comment": ""
+    },
+    {
+        "date": "2007-09-03",
+        "locID": "V43 1086",
+        "trainNo": "5136",
+        "comment": ""
+    },
+    {
+        "date": "2007-09-03",
+        "locID": "V43 1092",
+        "trainNo": "6113",
+        "comment": ""
+    },
+    {
+        "date": "2007-09-03",
+        "locID": "V43 1095",
+        "trainNo": "IC12604 Hortobágy",
+        "comment": "Szolnokig (vágányzár)"
+    },
+    {
+        "date": "2007-09-03",
+        "locID": "V43 1095",
+        "trainNo": "IC604 Hortobágy",
+        "comment": "Szolnoktól (vágányzár)"
+    },
+    {
+        "date": "2007-09-03",
+        "locID": "V43 1097",
+        "trainNo": "6102",
+        "comment": ""
+    },
+    {
+        "date": "2007-09-03",
+        "locID": "V43 1102",
+        "trainNo": "IC566/566-1 Rózsa",
+        "comment": "Szolnokig (vágányzár)"
+    },
+    {
+        "date": "2007-09-03",
+        "locID": "V43 1102",
+        "trainNo": "IC12566-1 Rózsa",
+        "comment": "Szolnoktól (vágányzár)"
+    },
+    {
+        "date": "2007-09-03",
+        "locID": "V43 1103",
+        "trainNo": "IC615 Szabolcs",
+        "comment": "Szolnokig (vágányzár)"
+    },
+    {
+        "date": "2007-09-03",
+        "locID": "V43 1103",
+        "trainNo": "IC12615 Szabolcs",
+        "comment": "Szolnoktól (vágányzár)"
+    },
+    {
+        "date": "2007-09-03",
+        "locID": "V43 1104",
+        "trainNo": "6224",
+        "comment": ""
+    },
+    {
+        "date": "2007-09-03",
+        "locID": "V43 1106",
+        "trainNo": "IC12622 Bereg",
+        "comment": "Szolnokig (vágányzár)"
+    },
+    {
+        "date": "2007-09-03",
+        "locID": "V43 1106",
+        "trainNo": "IC622 Bereg",
+        "comment": "Szolnoktól (vágányzár)"
+    },
+    {
+        "date": "2007-09-03",
+        "locID": "V43 1106",
+        "trainNo": "IC623 Bereg",
+        "comment": "Szolnokig (vágányzár)"
+    },
+    {
+        "date": "2007-09-03",
+        "locID": "V43 1106",
+        "trainNo": "IC12623 Bereg",
+        "comment": "Szolnoktól (vágányzár)"
+    },
+    {
+        "date": "2007-09-03",
+        "locID": "V43 1108",
+        "trainNo": "5135",
+        "comment": ""
+    },
+    {
+        "date": "2007-09-03",
+        "locID": "V43 1108",
+        "trainNo": "5144",
+        "comment": ""
+    },
+    {
+        "date": "2007-09-03",
+        "locID": "V43 1142",
+        "trainNo": "6237",
+        "comment": ""
+    },
+    {
+        "date": "2007-09-03",
+        "locID": "V43 1143",
+        "trainNo": "6235",
+        "comment": ""
+    },
+    {
+        "date": "2007-09-03",
+        "locID": "V43 1156",
+        "trainNo": "5137",
+        "comment": ""
+    },
+    {
+        "date": "2007-09-03",
+        "locID": "V43 1156",
+        "trainNo": "5142",
+        "comment": ""
+    },
+    {
+        "date": "2007-09-03",
+        "locID": "V43 1156",
+        "trainNo": "5124",
+        "comment": ""
+    },
+    {
+        "date": "2007-09-03",
+        "locID": "V43 1298",
+        "trainNo": "6102",
+        "comment": ""
+    },
+    {
+        "date": "2007-09-03",
+        "locID": "V43 1365",
+        "trainNo": "IC12565-2 Kócsag",
+        "comment": "Szolnokig (vágányzár)"
+    },
+    {
+        "date": "2007-09-03",
+        "locID": "V43 1365",
+        "trainNo": "IC565-2/565 Kócsag",
+        "comment": "Szolnoktól (vágányzár)"
+    },
+    {
+        "date": "2007-09-03",
+        "locID": "V43 2241",
+        "trainNo": "6200",
+        "comment": ""
+    },
+    {
+        "date": "2007-09-03",
+        "locID": "V43 2241",
+        "trainNo": "6103",
+        "comment": ""
+    },
+    {
+        "date": "2007-09-03",
+        "locID": "V43 2257",
+        "trainNo": "IC12650 Holló",
+        "comment": "Szolnokig (vágányzár)"
+    },
+    {
+        "date": "2007-09-03",
+        "locID": "V43 2257",
+        "trainNo": "IC650/650-1 Holló",
+        "comment": "Szolnoktól (vágányzár)"
+    },
+    {
+        "date": "2007-09-03",
+        "locID": "V63 019",
+        "trainNo": "IC655-2/655 Kamilla",
+        "comment": "Szolnokig (vágányzár)"
+    },
+    {
+        "date": "2007-09-03",
+        "locID": "V63 019",
+        "trainNo": "IC12655 Kamilla",
+        "comment": "Szolnoktól (vágányzár)"
+    },
+    {
+        "date": "2007-09-04",
         "locID": "",
         "trainNo": "",
         "comment": ""
     },
 
-
+    
 
     {
         "date": "2021-12-01",
